@@ -1,6 +1,6 @@
 ---
 title: CmgMusescoreGuide
-date: 2023-11-23 12:30:27
+date: 2025-12-04
 excerpt: 一本真正能解决实际问题的 MuseScore 打谱指南
 tags:
 categories:
@@ -1157,7 +1157,35 @@ $$
 
 ---
 
+### 十九. 如何添加乐谱封面？
 
+1. 选中乐谱的第一个小节，添加一个垂直框
+
+   ![Insert vertical frames](./img/19_01_01.png)
+
+   此时乐谱看起来像这样：
+
+   ![Vertical style](./img/19_01_02.png)
+
+2. 选中该垂直框，鼠标右击然后选择添加图片
+
+   ![Add Image](./img/19_02_01.png)
+
+   选择你制作好的封面
+
+   ![Select your cover image](./img/19_02_02.png)
+
+3. 最后拖动你的封面到合适的位置，大功告成！
+
+   ![Drag your cover image](./img/19_02_03.png)
+
+**Tips:**
+
+为乐谱设置封面不仅仅是美化乐谱，如果未来有把作品发布到 [MuseScore.com](https://musescore.com/) 的想法，网站会按照你得封面制作缩略图，非常清晰，示例如下：
+
+![Thumbnail examples](./img/19_03_01.png)
+
+---
 
 ### 致谢
 
